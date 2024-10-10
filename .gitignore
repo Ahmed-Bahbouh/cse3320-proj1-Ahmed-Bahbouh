@@ -1,0 +1,29 @@
+# Ignore object files
+*.o
+
+# Ignore dependency files
+*.d
+
+# Ignore compiled output binaries
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Ignore temporary files and backup files
+*~
+*.swp
+*.bak
+
+# Ignore debug files
+*.log
+*.dbg
+
+# Ignore core dumps
+core
+
+# Ignore directories for build artifacts
+build/
+bin/
+obj/
